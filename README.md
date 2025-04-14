@@ -157,7 +157,6 @@ Total Test Cases: 68
 
 ❌ Failed: 18
 
-🔍 Category-wise Breakdown
 ### 🔍 Category-wise Breakdown
 
 | 📂 **Category**         | 📋 **Executed** | ✅ **Passed** | ❌ **Failed**|
