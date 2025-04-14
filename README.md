@@ -148,13 +148,13 @@ Total Test Cases: 68
 ❌ Failed: 18
 
 🔍 Category-wise Breakdown
-📂 Category             📋 Executed	✅ Passed	   ❌ Failed
-Functional Testing	        36	      28	               8
-Performance Testing         3	        2	                 1
+📂 Category             📋 Executed	✅ Passed	         ❌ Failed
+Functional Testing	        36	       28	                8
+Performance Testing        3	        2	                 1
 Usability Testing         	10        8	                 2
-Compatibility Testing     	1       	0	                 1
+Compatibility Testing     	1       	 0	                 1
 Security Testing          	5	        4	                 1
-UI/UX Testing	              12	      8	                 4
+UI/UX Testing	             12	       8	                 4
 
 ⏱️ Performance Metrics
 📌 Test Type	⏲️ Result	🎯 Expected Limit
