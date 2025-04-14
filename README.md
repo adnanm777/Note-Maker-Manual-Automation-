@@ -4,6 +4,16 @@
 Welcome to the **Notes Makers Testing Project**! This document provides a structured overview of the testing strategy, execution, automation, and findings for the Notes Makers web application.
 
 🔗 **Project URL:** [Notes Makers Login Page](https://notes-makers.vercel.app/pages/login)
+ ## 🎥 Video Presentation
+
+Watch the complete walkthrough of the Notes Makers Testing Project in this video:
+🔗 https://drive.google.com/file/d/1FvXV_FaCLhkT5b7SfR__29E5RH4jt7e-/view?usp=drive_link
+
+> 📌 The video includes:  
+> ✅ Test Plan Overview  
+> ✅ Test Execution & Results  
+> ✅ Bug Reports & Key Findings  
+> ✅ Automation Demo using Selenium (Login, Dashboard, Notes, To-Do)
 
 ---
 
