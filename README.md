@@ -89,7 +89,7 @@ This document outlines the QA process for the **Notes Makers Application**, incl
 |-----------------------------|--------------------|
 | 📝 Test Plan Created        | 11/04/2025         |
 | 🧾 Test Case Design         | 11/04/2025         |
-| 🧪 Manual Test Execution    | 11/04/2025         |
+| 🧪 Manual Test Execution    | 13/04/2025         |
 | 🐞 Bug Reporting            | 14/04/2025         |
 | 📊 Summary Report Submitted | 14/04/2025         |
 
